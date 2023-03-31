@@ -6,7 +6,7 @@ const Header = () => {
     <header className="header">
       <div className="wrap">
         <div className="logo">
-          <h3>Clothes - Template</h3>
+          <h3>C - T</h3>
           {/* <img src={logo} alt="logo" /> */}
         </div>
       </div>
